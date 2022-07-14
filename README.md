@@ -1,5 +1,8 @@
 ### Nice to meet you 👋
 
+###  Watch my Contribution Graph get eaten by the snake 🥳
+![snake gif](https://raw.githubusercontent.com/Locusc/Locusc/output/github-contribution-grid-snake.svg)
+
 <!--
 **Locusc/Locusc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
